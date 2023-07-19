@@ -1,3 +1,3 @@
-# Booster Bot
+# Lucy Bot
 
 Web Dashboard for Lucy Bot.
